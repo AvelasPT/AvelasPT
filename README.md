@@ -1,5 +1,4 @@
 - Hello, this is my GitHub profile, nothing special here
-- If you wish to contact me, the easiest way would be through my discord -> AvelãsPT#1741
 - Learning on how to program stuff
 
 <!---
